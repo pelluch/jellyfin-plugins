@@ -2,7 +2,7 @@
     {
         "category": "General",
         "guid": "b24c5930-c337-4e0f-977f-1d900629ad09",
-        "name": "Disable UserData",
+        "name": "Disable User Data",
         "description": "Omits UserData (watch status / progress) from different endpoints in order to speed up queries.",
         "owner": "pelluch",
         "overview": "Disable user data param for speed-ups",
